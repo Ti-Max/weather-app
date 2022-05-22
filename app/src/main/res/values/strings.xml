@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">weather-app</string>
+    <string name="search_hint">e.g. Mother Russia</string>
+</resources>

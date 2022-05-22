@@ -1,0 +1,7 @@
+{
+    "board": "arduino:avr:uno",
+    "programmer": "arduino:arduinoasispatmega32u4",
+    "sketch": "sketch.ino",
+    "output": "build",
+    "port": "COM5"
+}
